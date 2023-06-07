@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.buscador{ background-color: #9fa8aa;
+display: flex;
+justify-content: space-around;
+padding: 2rem;
+;}
+
+#input1{ margin-left: 10rem;}
+
+.colaborador{ background-color: #e1ecee;
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+  ;}
+
+  .input2{ margin-left: 10rem;}
+
+  .button1 {display: flex;
+  justify-content: center;
+margin: 2rem;}
+
+.resultados{display: flex;
+  justify-content: center;
+ 
+}
+  .resultados1{display: flex;
+    justify-content: center;
+    background-color:black;
+    padding: 2rem;
+    color: white;
+  }
